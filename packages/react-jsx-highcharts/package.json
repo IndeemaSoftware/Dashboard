@@ -1,5 +1,5 @@
 {
-  "name": "react-dashboard",
+  "name": "react-high-dashboard",
   "version": "1.0.0",
   "description": "Dashboard built using React components",
   "main": "dist/react-jsx-highcharts.min.js",
