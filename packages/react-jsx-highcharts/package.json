@@ -1,6 +1,6 @@
 {
-  "name": "react-dasboard",
-  "version": "3.2.5",
+  "name": "react-dashboard",
+  "version": "1.0.0",
   "description": "Dashboard built using React components",
   "main": "dist/react-jsx-highcharts.min.js",
   "module": "dist/es/index.js",
