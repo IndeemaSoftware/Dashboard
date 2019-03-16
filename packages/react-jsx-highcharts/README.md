@@ -16,7 +16,7 @@ React JSX Highcharts also enables you to write your *own* Highcharts components,
 
 ## Installation
 
-`npm install --save react-dashboard`
+`npm install --save react-high-dashboard`
 
 You'll need the peer dependencies too
 
@@ -176,7 +176,7 @@ import Highcharts from 'highcharts/highstock';
 You likely need to add an extra Highcharts module to support the requested series type. This is usually `highcharts-more`.
 
 ```js
-import Highcharts from 'react-dashboard';
+import Highcharts from 'react-high-dashboard';
 import addHighchartsMore from 'highcharts/highcharts-more';
 
 addHighchartsMore(Highcharts);
@@ -185,7 +185,7 @@ addHighchartsMore(Highcharts);
 Alternatively it may be the Heatmap, Treemap, Sankey, [or one of these](https://github.com/highcharts/highcharts/tree/master/js/modules) extra modules.
 
 ```js
-import Highcharts from 'react-dashboard';
+import Highcharts from 'react-high-dashboard';
 import addHeatmapModule from 'highcharts/modules/heatmap';
 import addTreemapModule from 'highcharts/modules/treemap';
 
